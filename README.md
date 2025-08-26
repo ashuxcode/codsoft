@@ -1,3 +1,6 @@
+TASK -1
+
+{
 📝 To-Do List Application
 This is a simple yet efficient To-Do List App built in Python as part of my internship at CodSoft.
 The app helps you add, view, complete, and delete tasks directly from the command line making task management quick and easy.
@@ -46,9 +49,31 @@ Hi, I’m Ashutosh Bind 👋
 💻 Passionate about coding, problem-solving, and building useful projects
 
 🌟 Internship Project with CodSoft
+}
 
-Hi, I’m Ashutosh Bind 👋
-🎓 3rd-year student at AKGEC College
-💻 Passionate about coding, problem-solving, and building useful projects
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌟 Internship Project with CodSoft
+
+TASK - 2 
+
+{
+Task 2: Calculator
+A simple yet advanced calculator built in Python.  
+It supports the following operations:
+- Addition, Subtraction, Multiplication, Division  
+- Power, Square Root, Modulus, Percentage  
+- Input validation & error handling  
+- Continuous loop until user exits  
+
+👉 Run using:
+bash
+python calculator.py
+}
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+TASK - 3
+
+{
+
