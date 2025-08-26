@@ -72,8 +72,28 @@ python calculator.py
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+TASK -3 
 
-TASK - 3
+{
+Task 3: Password Generator
+A simple, secure password generator using Python’s `secrets` module.
+
+Features
+- Choose length
+- Toggle lowercase / uppercase / digits / symbols
+- Option to avoid similar-looking characters (0/O, 1/l/I, etc.)
+- Guarantees at least one character from each selected set
+
+Run
+bash
+python password_generator.py
+}
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+THANKYOU
+
+
 
 {
 
