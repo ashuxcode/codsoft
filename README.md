@@ -94,6 +94,3 @@ python password_generator.py
 THANKYOU
 
 
-
-{
-
